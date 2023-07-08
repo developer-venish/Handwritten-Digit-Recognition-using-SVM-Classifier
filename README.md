@@ -15,6 +15,7 @@ ML Python Project
 ---------------------------------------------------------------------------------------
 
 All the code in this project has been tested and run successfully in Google Colab. I encourage you to try running it in Colab for the best experience and to ensure smooth execution. Happy coding!
+
 ---------------------------------------------------------------------------------------
 
 # Working of The Code
